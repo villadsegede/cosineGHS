@@ -5,7 +5,8 @@ A Python implementation of the Generalized Harvey-Shack rough surface scattering
 
 The code is described in more detail in the following paper:
 ```
- Villads Egede Johansen, Preparing the generalized Harvey–Shack rough surface scattering method for use with the discrete ordinates method, J. Opt. Soc. Am. A, 3(2), 186-94 (2015)
+ Villads Egede Johansen, Preparing the generalized Harvey–Shack rough surface scattering 
+ method for use with the discrete ordinates method, J. Opt. Soc. Am. A, 3(2), 186-94 (2015)
 ```
 on which a preprint version is available in the repo as well (correctedManuscript.pdf).
 
